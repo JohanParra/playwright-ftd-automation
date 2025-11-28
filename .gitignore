@@ -1,6 +1,7 @@
+# Dependencies
+node_modules/
 
 # Playwright
-node_modules/
 /test-results/
 /playwright-report/
 /blob-report/
@@ -11,6 +12,21 @@ node_modules/
 /reports/
 !reports/.gitkeep
 
+# Cucumber Reports
+reports/cucumber-report.json
+reports/cucumber-report.html
+
 # Build
 /dist/
 *.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
