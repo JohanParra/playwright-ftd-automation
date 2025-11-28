@@ -18,7 +18,7 @@ El proyecto incluye:
 
 ### Paso 1: Clonar el repositorio
 ```bash
-git clone <url-del-repositorio>
+git clone git@github.com:JohanParra/playwright-ftd-automation.git
 cd playwright-ftd-automation
 ```
 
@@ -266,16 +266,3 @@ Feature: Cadena de Evolución de Pokémon
 - ✅ Validación de formularios completados (valores ingresados)
 - ✅ Validación de mensajes de confirmación
 - ✅ Validación de formato de precios
-
-
-## 📄 Licencia
-
-ISC
-
-## 👤 Autor
-
-Desarrollado para la prueba técnica de automatización de Farmatodo S.A.S
-
-## 📅 Fecha
-
-Noviembre 2025
